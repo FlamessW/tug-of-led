@@ -11,6 +11,6 @@ basic.forever(function () {
     if (rope < 0) {
         basic.showString("A WINS")
     } else if (rope > 4) {
-    	
+        basic.showString("B WINS")
     }
 })
